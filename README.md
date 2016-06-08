@@ -5,7 +5,7 @@
  node server.js
  
  go to the browser and past below
-http://localhost:5555/yourfile.html
+http://localhost:5556/yourfile.html
 
 replace localhost with your ip
 
