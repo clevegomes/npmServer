@@ -1,6 +1,7 @@
 {
     "first_name": "Alexander",
 	"last_name": "James",
+	"city_id": 1,
 	"city": "Dubai",
 	"country": "United Arab Emirates",
 	"country_code": "UAE",
@@ -17,14 +18,13 @@
 			"company_id": 12,
 			"company_name": "Codemint Technology",
 			"company_logo": "http://lorempixel.com/277/283/technics/?12,277,283",
-			"company_title": "Business Development Manager",
-			"company_sector": "Corporate Consulting",
-			"company_sector_id": 1,
-			"company_city": "New York22",
+			"company_title": "Business Development Manager", 
+			"company_sector_id": 1, 
 			"company_city_id": "1",
-			"company_country": "USA",
+			"company_country_code": "UAE",
 			"company_start_date": "2015-06-11",
 			"company_end_date": "2016-06-11",
+			"company_doc_id": 1,
 			"company_doc_upload_name":"Document.pdf",
 		    "company_doc_upload_path":"http://lorempixel.com/277/283/technics/?11,277,283",
 
@@ -47,12 +47,10 @@
 			"company_name": "Codemint Technology",
 			"company_logo": "http://lorempixel.com/277/283/technics/?11,277,283",
 			"company_position": "Business Development Manager,Corporate Consulting",
-			"company_title": "Business Development Manager",
-			"company_sector": "Corporate Consulting",
-			"company_sector_id": 1,
-			"company_city": "New York22",
+			"company_title": "Business Development Manager", 
+			"company_sector_id": 1, 
 			"company_city_id": "1",
-			"company_country": "USA",
+			"country_code": "USA",
 			"company_start_date": "2014-06-11",
 			"company_roles_and_resp": [{
 					"id": 1,
@@ -73,26 +71,26 @@
 	"education": [{
 			"education_id": 13,
 			"name": "Oxford University",
-			"education_qualification": "Bachelor of Business Management",
-			"field_study": "Web Design,Web Development,3.21",
-			"logo": "http://lorempixel.com/277/283/technics/?11,277,283",
-			"address": "New York",
-			"country": "USA",
+			"education_qualification_id": 1,
+			"field_study_id": 1,
+			"logo": "http://lorempixel.com/277/283/technics/?11,277,283", 
+			"city_id": 1,
+			"country_code": "USA",
 			"start_date": "Jan 2008",
 			"grade": "78%",
+			"doc_upload_id":1,
 			"doc_upload_name":"Document.pdf",
 		    "doc_upload_path":"http://lorempixel.com/277/283/technics/?11,277,283"
 		}, {
 			"education_id": 14,
 			"name": "Oxford University",
-			"education_qualification": "Bachelor of Business Management",
-			"field_study": "Web Design,Web Development,3.21",
+			"education_qualification_id": 1,
+			"field_study_id": 1,
 			"logo": "http://lorempixel.com/277/283/technics/?11,277,283",
-			"address": "New York",
-			"country": "USA",
+			"city_id": 1,
+			"country_code": "USA",
 			"start_date": "Jan 2008",
 			"end_date": "Mar 2012",
-			"duration": "1 year 4 months",
 			"grade": "78%"
 		}
 
@@ -103,7 +101,6 @@
 		"university_name": "Oxford University",
 		"start_date": "Jan 2008",
 		"end_date": "Mar 2012",
-		"duration": "1 year 4 months",
 		"grade": "91%"
 
 	}, {
@@ -113,6 +110,7 @@
 		"certified_date": "Jan 2008",
 		"grade": "91%",
 		"start_date": "Jan 2008",
+		"doc_upload_id":1,
 		"doc_upload_name":"Document.pdf",
 		"doc_upload_path":"http://lorempixel.com/277/283/technics/?11,277,283"
 
